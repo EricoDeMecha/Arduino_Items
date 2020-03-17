@@ -1,2 +1,2 @@
-# Remotely Controlled Chicken Brooder
-This project involve monitoring a chicken brooder through a web application interface
+# Remotely monitored and Controlled  Chicken Brooder
+This project involve monitoring  chicken brooder through an online web interface.
